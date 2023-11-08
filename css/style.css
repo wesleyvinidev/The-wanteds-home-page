@@ -1,0 +1,13 @@
+.fundo{
+    background: rgba(42, 40, 40, 0.8);
+    color: white;
+}
+.borda{
+    border: 3px solid white;
+}
+#criador{
+    position: absolute;
+    text-decoration: none;
+    font-size: 1.5em;
+    padding-left: 45%;
+}
